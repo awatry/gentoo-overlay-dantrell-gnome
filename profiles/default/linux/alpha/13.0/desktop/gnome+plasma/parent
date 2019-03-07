@@ -1,0 +1,4 @@
+dantrell-gnome:releases/13.0
+gentoo:targets/desktop/plasma
+dantrell-gnome-3-30:default/linux/alpha/13.0/desktop/gnome/3.30/extended
+../../../..
